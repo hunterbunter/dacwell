@@ -1,0 +1,2 @@
+#!/bin/sh
+spawn-fcgi -d /home/dac/well/www -f /home/dac/well/www/code.py -a 127.0.0.1 -p 9000
