@@ -1,0 +1,1 @@
+{"type": "postgres", "user": "workername", "name": "dbname", "pass": "workerpass"}
